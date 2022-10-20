@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #242526;
+ 
+}
+
+h2{
+text-align: center;
+margin-top: 150px;
+color: aqua;
+}
+
+.center{
+    margin: 0px 543px 0px 543px;
+    padding: 50px;
+    background-color: aqua;
+        border-radius: 25px;
+        text-align: center;
+}
+
+select{
+    width: 100PX;
+}
+span{
+    text-indent: -220px;
+
+}
+button{
+    height: 30px;
+    width: 200px;
+    border-radius: 50px;
+}
+button:hover{
+    background-color: rgb(200, 120, 0);
+    box-shadow: 5px 10px #888888;
+
+}
+input{
+    width: 200px;
+    height: 20px;
+    border-radius:3px;
+}
